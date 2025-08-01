@@ -1,0 +1,6 @@
+_target_: federated_methods.fixing_by_mixing.fbm.FBM
+num_byzantines: 4
+momentum_beta: 0.9
+tau_clip: 0.1
+clip_iters: 1
+ckpt_path: null

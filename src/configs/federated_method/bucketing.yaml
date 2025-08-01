@@ -1,0 +1,6 @@
+_target_: federated_methods.bucketing.bucketing.Bucketing
+beta: 0.9
+s: 2
+momentum_beta: 0.9
+tau_clip: 0.1
+clip_iters: 1

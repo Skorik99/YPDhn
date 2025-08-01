@@ -1,0 +1,5 @@
+_target_: federated_methods.byz_vr_marina.byz_vr_marina.ByzVrMarina
+p: 0.1
+gamma: 0.03
+tau_clip: 0.1
+clip_iters: 1

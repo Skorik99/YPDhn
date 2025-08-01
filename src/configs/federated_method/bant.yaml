@@ -1,0 +1,3 @@
+_target_: federated_methods.bant.bant.BANT
+trust_sample_amount: 500
+momentum_beta: 0.5

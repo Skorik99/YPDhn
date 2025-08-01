@@ -1,0 +1,8 @@
+alpha: 1
+data_name: cifar10_dirichlet
+data_sources:
+  test_directories:
+  - /home/skorik/public-federated-research/cifar10_trust/images/test_map_file.csv
+  train_directories:
+  - /home/skorik/public-federated-research/cifar10_trust/images/10_clients_train_map_file.csv
+verbose: true
